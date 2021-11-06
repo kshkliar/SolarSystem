@@ -15,6 +15,10 @@ public class Main {
         mikesun.color="blue";
         mikesun.heat="54ty54";
         mikesun.temp="545";
+        // adding planet1 feature;
+
+        Planet1 astronaut=new Planet1();
+        astronaut.color="Grey";
 
     }
 }
