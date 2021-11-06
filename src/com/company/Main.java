@@ -17,8 +17,9 @@ public class Main {
         mikesun.temp="545";
         // adding planet1 feature;
 
-        Planet1 astronaut=new Planet1();
-        astronaut.color="Grey";
-
+        Planet2 astronaut=new Planet2();
+        astronaut.color="Pink";
+        astronaut.size="Big";
+//Planet 2 fetures
     }
 }
