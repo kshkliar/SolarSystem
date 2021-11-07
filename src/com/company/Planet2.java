@@ -1,7 +1,8 @@
 package com.company;
 
-public class Planet1 {
+public class Planet2 {
     String size;
     String color;
+    String status;
 
 }
